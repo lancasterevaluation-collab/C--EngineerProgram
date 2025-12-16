@@ -1,2 +1,2 @@
-**Simplified Readme
-*This is my personal C++ program exercise record repository.I will update the repo everyday as far as I workout new algorithm structures design or some innovative ideas.If you have any suggestions to my repo,welcome to create a new branch to perfect our computer science learning!
+**Simplified Readme**
+*This is my personal C++ program exercise record repository. I will update the repo daily as I work out new algorithm structures, or some innovative ideas. If you have any suggestions of my repo, welcome to create a new branch to perfect our computer science learning!*
